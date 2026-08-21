@@ -1,14 +1,16 @@
 {
     "exercises": {
-        "1787030898.37-1020768987": {
-            "exercise_name": "hello world!",
-            "path": "exercises/hello world!.ex",
-            "song_name": ""
+        "1787279886.804-3773665267": {
+            "exercise_name": "Łzy - Agnieszka",
+            "language": "pl",
+            "path": "exercises/Łzy - Agnieszka.ex",
+            "song_name": "Łzy - Agnieszka"
         },
-        "1787108610.725-1927974840": {
-            "exercise_name": "Invisible Ex",
-            "path": "exercises/Invisible Ex.ex",
-            "song_name": "Cool song"
+        "1787285093.671-2590373068": {
+            "exercise_name": "Abominables - Berlín",
+            "language": "es",
+            "path": "exercises/Abominables - Berlín.ex",
+            "song_name": "Abominables - Berlín"
         }
     },
     "version": 1

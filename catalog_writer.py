@@ -32,6 +32,7 @@ def read_exercises():
             result[id] = {
                 "exercise_name" : read_pascal_string(file),
                 "song_name" : read_pascal_string(file),
+                "language" : read_pascal_string(file),
                 "path" : item.as_posix()
             }
     return result
