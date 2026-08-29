@@ -2,12 +2,14 @@
     "exercises": {
         "1787279886.804-3773665267": {
             "exercise_name": "Łzy - Agnieszka",
+            "has_audio": false,
             "language": "pl",
             "path": "exercises/Łzy - Agnieszka.ex",
             "song_name": "Łzy - Agnieszka"
         },
         "1787285093.671-2590373068": {
             "exercise_name": "Abominables - Berlín",
+            "has_audio": false,
             "language": "es",
             "path": "exercises/Abominables - Berlín.ex",
             "song_name": "Abominables - Berlín"

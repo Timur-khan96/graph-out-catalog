@@ -27,7 +27,8 @@ def read_exercises():
         if not item.is_file(): continue
         with open(item, "rb") as file:
             if read_pascal_string(file) != MAGIC: continue
-            file.seek(9, os.SEEK_CUR) #skipping version and offsets
+            file.seek(5, os.SEEK_CUR) #skipping version and the first offset
+            audio_offset = struct.unpack("<I", file.read(4))[0]
             id = read_pascal_string(file)
             result[id] = {
                 "exercise_name" : read_pascal_string(file),
@@ -35,6 +36,10 @@ def read_exercises():
                 "language" : read_pascal_string(file),
                 "path" : item.as_posix()
             }
+            file.seek(audio_offset, os.SEEK_SET)
+            audio_size= struct.unpack("<I", file.read(4))[0]
+            result[id]["has_audio"] = audio_size > 0
+
     return result
 
 catalog = {}
