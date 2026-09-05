@@ -13,6 +13,90 @@
             "language": "es",
             "path": "exercises/Abominables - Berlín.ex",
             "song_name": "Abominables - Berlín"
+        },
+        "1787987803.975-3383510805": {
+            "exercise_name": "Claw Marks - Panicbaby",
+            "has_audio": true,
+            "language": "en",
+            "path": "exercises/Claw Marks - Panicbaby.ex",
+            "song_name": "panicbaby - Claw Marks "
+        },
+        "1788527219.889-1036046245": {
+            "exercise_name": "Hen Ogledd - Trouble",
+            "has_audio": true,
+            "language": "en",
+            "path": "exercises/Hen Ogledd - Trouble.ex",
+            "song_name": "Hen Ogledd - Trouble"
+        },
+        "1788530999.923-709898156": {
+            "exercise_name": "MCR - Summertime",
+            "has_audio": true,
+            "language": "en",
+            "path": "exercises/MCR - Summertime.ex",
+            "song_name": "My Chemical Romance - Summertime"
+        },
+        "1788617243.681-3912150525": {
+            "exercise_name": "Frank Sinatra - My Way",
+            "has_audio": false,
+            "language": "en",
+            "path": "exercises/Frank Sinatra - My Way.ex",
+            "song_name": "Frank Sinatra - My Way"
+        },
+        "1788617943.219-1660518158": {
+            "exercise_name": "Elvis Presley - Burning Love",
+            "has_audio": false,
+            "language": "en",
+            "path": "exercises/Elvis Presley - Burning Love.ex",
+            "song_name": "Elvis Presley - Burning Love"
+        },
+        "1788630645.53-1033079513": {
+            "exercise_name": "La Femme - Télégraphe",
+            "has_audio": true,
+            "language": "fr",
+            "path": "exercises/La Femme - Télégraphe.ex",
+            "song_name": "La Femme - Télégraphe"
+        },
+        "1788631322.793-3713502834": {
+            "exercise_name": "Enter Shikari - Constellations",
+            "has_audio": true,
+            "language": "en",
+            "path": "exercises/Enter Shikari - Constellations.ex",
+            "song_name": "Enter Shikari - Constellations"
+        },
+        "1788631685.254-1037524688": {
+            "exercise_name": "Of Monsters and Men - Little Talks",
+            "has_audio": true,
+            "language": "en",
+            "path": "exercises/Of Monsters and Men - Little Talks.ex",
+            "song_name": "Of Monsters and Men - Little Talks"
+        },
+        "1788632032.556-1563836308": {
+            "exercise_name": "Mitski - My Love Mine All Mine",
+            "has_audio": true,
+            "language": "en",
+            "path": "exercises/Mitski - My Love Mine All Mine.ex",
+            "song_name": "Mitski - My Love Mine All Mine"
+        },
+        "1788633937.305-387398101": {
+            "exercise_name": "The White Stripes - We're Going To Be Friends",
+            "has_audio": true,
+            "language": "en",
+            "path": "exercises/The White Stripes - We're Going To Be Friends.ex",
+            "song_name": "The White Stripes - We're Going To Be Friends"
+        },
+        "1788634289.405-3540805591": {
+            "exercise_name": "Альянс - На заре",
+            "has_audio": false,
+            "language": "ru",
+            "path": "exercises/Альянс - На заре.ex",
+            "song_name": "Альянс - На заре"
+        },
+        "1788635768.123-2820197841": {
+            "exercise_name": "Britney Spears - Toxic",
+            "has_audio": false,
+            "language": "en",
+            "path": "exercises/Britney Spears - Toxic.ex",
+            "song_name": ""
         }
     },
     "version": 1
