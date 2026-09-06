@@ -97,6 +97,41 @@
             "language": "en",
             "path": "exercises/Britney Spears - Toxic.ex",
             "song_name": ""
+        },
+        "1788699089.281-2795947765": {
+            "exercise_name": "Phoebe Bridgers - Motion Sickness",
+            "has_audio": true,
+            "language": "en",
+            "path": "exercises/Phoebe Bridgers - Motion Sickness.ex",
+            "song_name": "Phoebe Bridgers - Motion Sickness"
+        },
+        "1788699348.869-1551600375": {
+            "exercise_name": "Magdalena Bay - Top Dog",
+            "has_audio": true,
+            "language": "en",
+            "path": "exercises/Magdalena Bay - Top Dog.ex",
+            "song_name": "Magdalena Bay - Top Dog"
+        },
+        "1788699633.012-2348080737": {
+            "exercise_name": "CHVRCHES - Leave A Trace",
+            "has_audio": true,
+            "language": "en",
+            "path": "exercises/CHVRCHES - Leave A Trace.ex",
+            "song_name": "CHVRCHES - Leave A Trace"
+        },
+        "1788700003.376-637471335": {
+            "exercise_name": "AY YOLA  -  Homay",
+            "has_audio": true,
+            "language": "ba",
+            "path": "exercises/AY YOLA  -  Homay.ex",
+            "song_name": "AY YOLA  -  Homay"
+        },
+        "1788701440.586-2362637655": {
+            "exercise_name": "Film Noir - Brûlant",
+            "has_audio": true,
+            "language": "fr",
+            "path": "exercises/Film Noir - Brûlant.ex",
+            "song_name": "Film Noir - Brûlant"
         }
     },
     "version": 1
